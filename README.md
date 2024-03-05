@@ -23,3 +23,6 @@ The dataset used in this project is sourced from Kaggle. It consists of transact
 - `README.md`: Project description and summary of findings.
 
 This description provides an overview of the project, the dataset, objectives, tools, and the structure of your repository, aligning with the needs of a data science portfolio. Feel free to customize it to fit your specific project details.
+
+## Acknowledgments
+This project uses data provided by Aslan Ahmedov, available on Kaggle. We appreciate his effort in compiling and sharing this valuable dataset.
